@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flying-bird-game/static/css/main.b3a407cc.css",
+    "main.js": "/flying-bird-game/static/js/main.ae51921c.js",
+    "static/js/453.d4eea5fb.chunk.js": "/flying-bird-game/static/js/453.d4eea5fb.chunk.js",
+    "index.html": "/flying-bird-game/index.html",
+    "main.b3a407cc.css.map": "/flying-bird-game/static/css/main.b3a407cc.css.map",
+    "main.ae51921c.js.map": "/flying-bird-game/static/js/main.ae51921c.js.map",
+    "453.d4eea5fb.chunk.js.map": "/flying-bird-game/static/js/453.d4eea5fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a407cc.css",
+    "static/js/main.ae51921c.js"
+  ]
+}
