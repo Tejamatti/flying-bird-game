@@ -1,13 +1,31 @@
+/* src/index.css */
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+h1, h2 {
+  color: white;
+}
+
+@media (max-width: 600px) {
+  h1, h2 {
+    font-size: 14px;
+  }
+
+  button {
+    font-size: 12px;
+    padding: 8px 16px;
+  }
+
+  .game-container {
+    font-size: 12px;
+  }
 }
